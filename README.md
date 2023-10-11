@@ -75,11 +75,11 @@ To get started, follow these steps:
    open a new terminal session.
    On Unix/Linux:
    ```
-   export OPENAI_API_KEY="your_OpenAI_API_key"
+   export OPENAI_API_KEY="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"
    ```
    On Windows:
    ```
-   $env:OPENAI_API_KEY="your_OpenAI_API_key"
+   $env:OPENAI_API_KEY="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"
    ```
 5. **Build Your Software:** Use the following command to initiate the building of your software,
    replacing `[description_of_your_idea]` with your idea's description and `[project_name]` with your desired project
